@@ -1,7 +1,9 @@
 # nodejs_template
+
 A starter template for creating NodeJs Projects. Includes creating modules and unit tests.
 
 # Install NodeJS
+
 You can install NodeJs from [here](https://nodejs.org/en/download/)
 
 # Running this package
@@ -16,7 +18,21 @@ npm run test
 ```
 
 # Directory Structure
+
 The files and directories are as follows:
+
+```bash
+.
+├── README.md
+├── app.js
+├── lib
+│   └── my_lib.js
+├── package-lock.json
+├── package.json
+└── test
+    ├── chai_test.js
+    └── mocha_test.js
+```
 
 1. The main entry point is [app.js](app.js)
 2. All modules are in **lib** folder. Example: [lib/my_lib.js](lib/my_lib.js)
