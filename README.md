@@ -21,7 +21,7 @@ npm run test
 
 The files and directories are as follows:
 
-```bash
+```
 .
 ├── README.md
 ├── app.js
