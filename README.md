@@ -17,6 +17,12 @@ npm install
 npm run test
 ```
 
+# Useful Visual Studio Extensions for NodeJS Development
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+
 # Directory Structure
 
 The files and directories are as follows:
